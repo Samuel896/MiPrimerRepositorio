@@ -7,3 +7,4 @@ _Markdown_ es un lenguaje de escritura estructurada tipo "Wikipedia"
 * Listas sin numerar
   * anidades
 * Titulos con '#' y secciones con varios '##'
+* Insertar imagen ![
